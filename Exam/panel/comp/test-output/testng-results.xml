@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-23T13:05:02 GMT+05:30" name="Default suite" finished-at="2022-05-23T13:05:18 GMT+05:30" duration-ms="15912">
+    <groups>
+    </groups>
+    <test started-at="2022-05-23T13:05:02 GMT+05:30" name="Default test" finished-at="2022-05-23T13:05:18 GMT+05:30" duration-ms="15912">
+      <class name="test.Addtocart">
+        <test-method signature="addToCart()[pri:0, instance:test.Addtocart@66f57048]" started-at="2022-05-23T13:05:02 GMT+05:30" name="addToCart" finished-at="2022-05-23T13:05:18 GMT+05:30" duration-ms="15793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- test.Addtocart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
